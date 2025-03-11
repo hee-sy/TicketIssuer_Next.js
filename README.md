@@ -55,12 +55,16 @@ A web application for managing customer tickets and counters. It includes two ma
 - **Last Number**: Shows the latest ticket number issued.
 - **Counters Overview**: Displays the status of each counter (online/offline) and the ticket number they are currently serving.
 
+  <img src="./CustomerView.png" width=700>
+
 ### **2. Counter Manager View**
 
 - **Waiting Queue**: Displays the list of tickets waiting to be served.
 - **Drag and Drop**: Allows the manager to drag the front ticket number from the queue and drop it onto a ready counter to assign it.
 - **Toggle Counter Status**: Managers can toggle counters between **online** and **offline**.
 - **Clear Queue**: Provides an option to clear the entire waiting queue.
+
+  <img src="./CounterManagerView.png" width=850>
 
 ## Technologies Used
 
